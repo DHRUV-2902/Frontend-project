@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  text-align: center;
+  
+  
+}
+#id{
+  background-image: url("C:\Users\mrvoi\OneDrive\Desktop\REACT\ASSG 1\can\src\img4.jpg");
+}
+#img{ 
+  background-image: url("C:\Users\mrvoi\OneDrive\Desktop\REACT\ASSG 1\can\src\img4.jpg");
+}
+
+#image{
+  background-Image: linear-gradient(115deg, #F39FDC, #9AB5E1);
+  height:100%;
+}
